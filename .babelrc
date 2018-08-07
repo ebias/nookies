@@ -1,15 +1,15 @@
 {
-   "minified": true,
-   "presets": [
-      [
-         "babel-preset-env",
-         {
-             "targets": {
-				   "browsers": [
-					   "IE >= 11"
-				   ]
-			   }
-         }
-      ]
-   ]
+	"minified": true,
+	"presets": [
+		[
+			"babel-preset-env",
+			{
+				"targets": {
+					"browsers": [
+						"IE >= 11"
+					]
+				}
+			}
+		]
+	]
 }
